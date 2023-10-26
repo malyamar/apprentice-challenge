@@ -1,3 +1,5 @@
+ [ステップ２まで完成：パスワードマネージャー](https://github.com/COfiftytwo/Assignment-Apprentice/blob/main/password-manager.sh)
+
 # パスワードマネージャー
 
 パスワードを管理するパスワードマネージャーを、シェルスクリプトを利用して作成しましょう。
